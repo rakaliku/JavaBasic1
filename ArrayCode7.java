@@ -9,6 +9,7 @@ public class ArrayCode7 {
 		for (char v2:v)
 		{
 			System.out.println(v2);
+			System.out.println("statements to dd for github repository");
 		}
 	}
 }
