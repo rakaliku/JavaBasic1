@@ -1,3 +1,4 @@
+//This code indictes the For loop array program
 package com.java.ArraysExamples;
 
 public class ArrayCode4 {
@@ -14,6 +15,7 @@ public class ArrayCode4 {
 		for (int i=0;i<6;i++)
 		{
 			System.out.println(a[i]);
+			System.out.println("aaray Code4  ");
 		}
 	}
 
